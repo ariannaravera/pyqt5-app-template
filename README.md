@@ -24,14 +24,14 @@
   <p align="center">
     Automating cellular image analysis
     <br />
-    <a href="https://github.com/vjesticalab/Application"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ariannaravera/pyqt_app_template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/vjesticalab/Application">View Demo</a>
+    <a href="https://github.com/ariannaravera/pyqt_app_template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/ariannaravera/pyqt_app_template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/ariannaravera/pyqt_app_template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -65,17 +65,7 @@
 
 <div align="center"><img src="support_files/Screenshot.png" alt="Logo" width="600"></div>
 
-The VLabApp is created with the aim of automating the cellular image analysis process, from the recording of the movies that come out of the microscope, to the tracking of the events within each time frame.
-
-The application is divided into several modules that can be used consecutively and/or independently:
-* <b>Viewer</b> - to easily view the generated images, masks or graphs in Napari;
-* <b>Z-Projection</b> - to make a projection of the z stack. Max, min, std, average and median projections possible;
-* <b>GroundTruth</b> - to quickly and easily generate the ground truth masks useful for a possible retraining of the network to be used in the Segmentation module;
-* <b>Registration</b> - to register and align images;
-* <b>Segmentation</b> - to segment the images and generate the corresponding masks;
-* <b>Cell tracking</b> - to create the graph tracking the segmented masks;
-* <b>Graph filtering</b> - to filter anche clean the graph and the corresponding mask;
-* <b>Graph event filter</b> - to filter Fusion and Division events and get their corresponding masks and graphs.
+PyQt5 App template
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
@@ -207,15 +197,15 @@ Space to list helpful resources and would like to give credit to. I've included 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/vjesticalab/Application.svg?style=for-the-badge
-[contributors-url]: https://github.com/vjesticalab/Application/graphs/contributors
+[contributors-url]: https://github.com/ariannaravera/pyqt_app_template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/vjesticalab/Application.svg?style=for-the-badge
-[forks-url]: https://github.com/vjesticalab/Application/network/members
+[forks-url]: https://github.com/ariannaravera/pyqt_app_template/network/members
 [stars-shield]: https://img.shields.io/github/stars/vjesticalab/Application.svg?style=for-the-badge
-[stars-url]: https://github.com/vjesticalab/Application/stargazers
+[stars-url]: https://github.com/ariannaravera/pyqt_app_template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/vjesticalab/Application.svg?style=for-the-badge
-[issues-url]: https://github.com/vjesticalab/Application/issues
+[issues-url]: https://github.com/ariannaravera/pyqt_app_template/issues
 [license-shield]: https://img.shields.io/github/license/vjesticalab/Application.svg?style=for-the-badge
-[license-url]: https://github.com/vjesticalab/Application/blob/master/LICENSE.txt
+[license-url]: https://github.com/ariannaravera/pyqt_app_template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/arianna-ravera-3a082917b
 [product-screenshot]: support_files/Screenshot.png
