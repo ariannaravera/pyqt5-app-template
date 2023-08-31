@@ -49,7 +49,11 @@
 
 <div align="center"><img src="support_files/Screenshot.png" alt="Logo" width="600"></div>
 
-PyQt5 App template
+PyQt5 App template made up of 4 example pages:
+1. Home - an (almost) empty homepage
+2. NewPageName - page containing two subpages inside which there are examples of various objects that can be used (eg. checkbox, text line, etc.)
+3. Napari - page useful for opening a napari window
+4. Segmentation - specific template for a possible automatic segmentation functionality
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
