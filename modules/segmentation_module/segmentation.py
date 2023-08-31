@@ -4,6 +4,7 @@ from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QCursor
 from modules.segmentation_module import segmentation_functions as f
 from general import general_functions as gf
+import logging
 
 
 class Segmentation(QWidget):
@@ -99,7 +100,7 @@ class Segmentation(QWidget):
         self.setLayout(layout)
 
         # If we use a log file:
-        #self.logger = logging.getLogger(__name__)
+        self.logger = logging.getLogger(__name__)
 
     def add_image(self):
         """
