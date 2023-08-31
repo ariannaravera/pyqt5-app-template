@@ -19,19 +19,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">VLabApplication</h3>
+  <h3 align="center">PyQt5 App Template</h3>
 
   <p align="center">
-    Automating cellular image analysis
     <br />
-    <a href="https://github.com/ariannaravera/pyqt_app_template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ariannaravera/pyqt5-app-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ariannaravera/pyqt_app_template">View Demo</a>
+    <a href="https://github.com/ariannaravera/pyqt5-app-template">View Demo</a>
     ·
-    <a href="https://github.com/ariannaravera/pyqt_app_template/issues">Report Bug</a>
+    <a href="https://github.com/ariannaravera/pyqt5-app-template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ariannaravera/pyqt_app_template/issues">Request Feature</a>
+    <a href="https://github.com/ariannaravera/pyqt5-app-template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -78,7 +77,7 @@ The use of Anaconda is supposed.
  
 1. Create a virtual environment for your code, in the terminal: 
 
-  `conda create --name venv_VLabApp`
+  `conda create --name name_of_venv`
  
 2. Once the venv is created, activate it: 
  
@@ -86,9 +85,9 @@ The use of Anaconda is supposed.
 
 3. Clone this git repository. Open the terminal where you want to put the App code (eg. Desktop): 
 
-  `git clone https://github.com/vjesticalab/VLabApp.git`
+  `git clone https://github.com/ariannaravera/pyqt5-app-template.git`
  
-Now you have the VLabApp folder into the chosen directory (eg. Desktop/VLabApp)
+Now you have the pyqt5-app-template folder into the chosen directory (eg. Desktop/pyqt5-app-template)
  
 4. Open the terminal within the VLabApp, activate your venv and install the libraries running:
 
@@ -110,37 +109,10 @@ Now you have everything you need to use the Application!
 List of things you need to use the software and how to install them.
 * PyQt5==5.15.9
 * PyQt5_sip==12.12.1
-* cellpose==2.2
-* matplotlib==3.7.1
 * napari==0.4.17
-* nd2==0.5.3
-* numpy==1.23.5
-* opencv_python_headless==4.7.0.72
-* pystackreg==0.2.7
-* python_igraph==0.10.5
-* QtPy==2.3.1
-* roifile==2023.5.12
-* scikit_image==0.19.3
-* scipy==1.9.1
-* tifffile==2023.4.12
-
-
-
-
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-<!-- 
-Useful examples of how the application can be used. Additional screenshots, code examples and demos. Also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right"><a href="#readme-top">back to top</a></p>
--->
 
 
 <!-- CONTRIBUTING -->
@@ -160,52 +132,28 @@ Don't forget to give the project a star! Thanks again!
 <p align="right"><a href="#readme-top">back to top</a></p>
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the ... License. See `support_files/LICENSE.txt` for more information.
-
-<p align="right"><a href="#readme-top">back to top</a></p>
-
-
 <!-- CONTACT -->
 ## Contact
 
 Arianna Ravera - ariannaravera22@gmail.com
 
-Julien Dorier - 
-
-Aleksandar Vjestica - 
-
-Project Link: [VLabApp](https://github.com/vjesticalab/VLabApp)
+Project Link: [PyQtAppTemplate](https://github.com/ariannaravera/pyqt5-app-template)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
-
-
-<!-- ACKNOWLEDGMENTS 
-## Acknowledgments
-
-Space to list helpful resources and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages eg.Cellpose](https://pages.github.com)
-
-<p align="right"><a href="#readme-top">back to top</a></p>
--->
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/vjesticalab/Application.svg?style=for-the-badge
-[contributors-url]: https://github.com/ariannaravera/pyqt_app_template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/vjesticalab/Application.svg?style=for-the-badge
-[forks-url]: https://github.com/ariannaravera/pyqt_app_template/network/members
-[stars-shield]: https://img.shields.io/github/stars/vjesticalab/Application.svg?style=for-the-badge
-[stars-url]: https://github.com/ariannaravera/pyqt_app_template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/vjesticalab/Application.svg?style=for-the-badge
-[issues-url]: https://github.com/ariannaravera/pyqt_app_template/issues
-[license-shield]: https://img.shields.io/github/license/vjesticalab/Application.svg?style=for-the-badge
-[license-url]: https://github.com/ariannaravera/pyqt_app_template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ariannaravera/pyqt5-app-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/ariannaravera/pyqt5-app-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ariannaravera/pyqt5-app-template.svg?style=for-the-badge
+[forks-url]: https://github.com/ariannaravera/pyqt5-app-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/ariannaravera/pyqt5-app-template.svg?style=for-the-badge
+[stars-url]: https://github.com/ariannaravera/pyqt5-app-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ariannaravera/pyqt5-app-template.svg?style=for-the-badge
+[issues-url]: https://github.com/ariannaravera/pyqt5-app-template/issues
+[license-shield]: https://img.shields.io/github/license/ariannaravera/pyqt5-app-template.svg?style=for-the-badge
+[license-url]: https://github.com/ariannaravera/pyqt5-app-template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/arianna-ravera-3a082917b
 [product-screenshot]: support_files/Screenshot.png
