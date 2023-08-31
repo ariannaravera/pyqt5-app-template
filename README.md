@@ -76,28 +76,24 @@ The use of Anaconda is supposed.
 1. Create a virtual environment for your code, in the terminal: 
 
   `conda create --name name_of_venv`
- 
-2. Once the venv is created, activate it: 
- 
-  `conda activate name_of_venv`
-
-3. Clone this git repository. Open the terminal where you want to put the App code (eg. Desktop): 
+  
+2. Clone this git repository. Open the terminal where you want to put the App code (eg. Desktop): 
 
   `git clone https://github.com/ariannaravera/pyqt5-app-template.git`
  
 Now you have the pyqt5-app-template folder into the chosen directory (eg. Desktop/pyqt5-app-template)
  
-4. Open the terminal within the VLabApp, activate your venv and install the libraries running:
+3. Open the terminal within the pyqt5-app-template folder, activate your venv and install the libraries running:
 
-  `conda install qt`
+  `conda activate name_of_venv`  
   `pip install -r requirements.txt`
  
-  (If you have troubles with pyqt, try to install this and then the requirements.txt again:
+  (If you have troubles with pyqt, try to install if in this way:  
   `pip install pyqt5 --config-settings --confirm-license= --verbose`)
  
-Now you have everything you need to use the Application!
+Now you have everything you need!
 
-5. To open the application, run:
+4. To open the application, run:
   
   `python3 master.py`
 
