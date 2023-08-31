@@ -18,7 +18,6 @@
   <h3 align="center">PyQt5 App Template</h3>
 
   <p align="center">
-    ·
     <a href="https://github.com/ariannaravera/pyqt5-app-template/issues">Report Bug</a>
     ·
     <a href="https://github.com/ariannaravera/pyqt5-app-template/issues">Request Feature</a>
