@@ -7,8 +7,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -20,11 +18,6 @@
   <h3 align="center">PyQt5 App Template</h3>
 
   <p align="center">
-    <br />
-    <a href="https://github.com/ariannaravera/pyqt5-app-template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/ariannaravera/pyqt5-app-template">View Demo</a>
     ·
     <a href="https://github.com/ariannaravera/pyqt5-app-template/issues">Report Bug</a>
     ·
@@ -130,8 +123,6 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 
 Arianna Ravera - ariannaravera22@gmail.com
-
-Project Link: [PyQtAppTemplate](https://github.com/ariannaravera/pyqt5-app-template)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
