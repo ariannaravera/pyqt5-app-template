@@ -1,3 +1,9 @@
+#!/bin/env python3
+# -*- coding: utf-8 -*-
+
+# Copyright (C) 2023, Arianna Ravera <ariannaravera22@gmail.com>
+# All rights reserved.
+
 import sys
 import logging
 from PyQt5.QtCore import Qt
